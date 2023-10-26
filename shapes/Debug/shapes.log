@@ -1,2 +1,6 @@
-﻿  mainObj.cpp
+﻿  Source.cpp
+  main.cpp
+  mainObj.cpp
+  shapes.cpp
+  Создание кода...
   shapes.vcxproj -> E:\git\shapes\Debug\shapes.exe
